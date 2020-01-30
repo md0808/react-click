@@ -1,5 +1,6 @@
 {
   "name": "click-memory",
+  "homepage": "https://github.com/md0808/react-click/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
