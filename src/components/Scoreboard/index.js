@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-//map each item in the randomized array
 
 function Scoreboard(props) {
   return (
