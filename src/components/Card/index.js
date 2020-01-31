@@ -1,8 +1,6 @@
 import React from "react";
 import "./style.css";
 
-//This component will take in props, filling in with info from the plant-list.json
-//This component holds an onClick even which triggers a function
 function Card(props) {
   let imgClasses;
   if (props.outcome === 0) {
