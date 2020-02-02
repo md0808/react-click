@@ -1,6 +1,6 @@
 # Memory Game
 
-https://md0808.github.io/clicky-game/
+https://md0808.github.io/react-click/
 
 Click on a plant. Try to remember each one you've picked. You lose the round when you pick the same plant twice. You get a point for each time you click a unique card.
 
